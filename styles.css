@@ -16,3 +16,8 @@ button {
     justify-content: center;
     flex-direction: column;
 }
+
+.iframe-container {
+    display: flex;
+    justify-content: center;
+}
