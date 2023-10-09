@@ -3,7 +3,7 @@ body {
     text-align: center;
     margin-top: 50px;
     overflow: scroll;
-    width: 600px;
+    width: 400px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -11,4 +11,9 @@ body {
 button {
     padding: 10px 15px;
     font-size: 16px;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
 }
